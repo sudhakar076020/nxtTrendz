@@ -1,0 +1,37 @@
+.cartSummary-container {
+  align-self: flex-end;
+  margin-bottom: 25px;
+}
+
+.total-cartItem-price {
+  color: #616e7c;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.total-cartItem-price p {
+  color: #171f46;
+  font-size: 1.55rem;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.total-cartItem-quantity {
+  color: #616e7c;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.checkout-btn {
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #0b69ff;
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+}
